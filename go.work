@@ -1,0 +1,7 @@
+go 1.21.5
+
+use ./practical/snippetbox
+use ./practical/hello_world
+use ./practical/hello
+use ./practical/test
+use ./practical/concurrency

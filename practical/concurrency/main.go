@@ -1,0 +1,27 @@
+package main
+
+func main() {
+	// joinPointWaitGroup()
+	// closure()
+	// closure2()
+	// syncAdd()
+	// mutex()
+	// mutexTime()
+	// cond()
+	// condBroadcast()
+	// once2()
+	// onceDeadlock()
+	// pool2()
+	// chan_test()
+	// chan_closed()
+	// chan_itr()
+	// chan_unblockAll()
+	// chan_buffered()
+	// chan_nil()
+	// chan_ownership()
+	// chan_select()
+	// chan_select_multiple()
+	// chan_select_timeout()
+	// chan_select_default()
+	chan_select_forloop()
+}
